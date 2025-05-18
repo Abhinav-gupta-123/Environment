@@ -96,7 +96,7 @@ Feel free to:
 
 ## 🙋‍♂️ Maintainer
 
-Maintained by **\[Your Name or GitHub handle]**, an AIML enthusiast sharing a powerful dev environment for real-world AI/ML projects.
+Maintained by **\[https://github.com/Abhinav-gupta-123]**, an AIML enthusiast sharing a powerful dev environment for real-world AI/ML projects.
 🔁 **Follow this repo for weekly updates and improvements.**
 
 ---
